@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakewhitebread
-- 👀 I’m interested in software engineering and creating apps and/or games.
+- 👀 I’m interested in software engineering, creating apps and/or games.
 - 🌱 I’m currently going to school for Computer Science with an emphasis in Simulation and Game Development.
 - 📫 My email is phoggytoast@gmail.com
 
