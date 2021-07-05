@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @jakewhitebread
-- 👀 I’m interested in software engineering, creating apps and/or games.
-- 🌱 I’m currently going to school for Computer Science with an emphasis in Simulation and Game Development.
-- 📫 My email is phoggytoast@gmail.com
+GCU '22 | Computer Science with an Emphasis in Game and Simulation Development |
+Aspiring Software Engineer | Interested in App and Game Development
 
 <!---
 jakewhitebread/jakewhitebread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
